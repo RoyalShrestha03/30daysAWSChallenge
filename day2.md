@@ -77,4 +77,12 @@ AWS manages the security OF the cloud, specifically the physical infrastructure 
 ### Total Cost of Ownership
 The Total Cost Of Ownership(TCO) is a finantical metric that is used to estimate and compare direct and indirect costs of a product or a sercvice.
 
+### AWS free tier
+The AWS Free Tier offers free access to a range of AWS services for a limited time, which is great for trying out new services or learning the platform without incurring costs.
 
+### Key takeaways
+- AWS’s global infrastructure ensures your applications are always available, secure, and performant, no matter where your users are.
+- Planning for failure by spreading resources across AZs and regions is crucial for building resilient applications.
+- The shared responsibility model means AWS handles infrastructure security, but customers must manage their security settings and data.
+- The AWS Well-Architected Framework provides guidelines for building secure, reliable, and cost-effective systems.
+AWS offers flexible pricing models, and tools like the TCO calculator and Billing Dashboard help manage costs effectively.
