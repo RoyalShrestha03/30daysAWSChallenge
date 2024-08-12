@@ -2,40 +2,42 @@
 ## Introduction to Cloud Computing
 ### AWS Offerings
 
-Compute:
+**EC2 (Elastic Compute Cloud):**
+ Provides scalable virtual servers where you can launch and manage instances with various configurations, paying only for what you use.
 
-EC2 (Elastic Compute Cloud): Provides scalable virtual servers where you can launch and manage instances with various configurations, paying only for what you use.
+**S3 (Simple Storage Service):**
+ Offers scalable object storage with high durability and availability, ideal for storing and retrieving any amount of data.
 
-S3 (Simple Storage Service): Offers scalable object storage with high durability and availability, ideal for storing and retrieving any amount of data.
+**RDS (Relational Database Service):**
+ Provides managed relational databases with automated backups, scaling, and patching.
 
-RDS (Relational Database Service): Provides managed relational databases with automated backups, scaling, and patching.
+**Analytics:**
+AWS provides analytics services like Amazon Redshift for data warehousing and Amazon Athena for serverless SQL queries on S3 data, enabling scalable and efficient data analysis.
 
-Analytics:AWS provides analytics services like Amazon Redshift for data warehousing and Amazon Athena for serverless SQL queries on S3 data, enabling scalable and efficient data analysis.
-
-Networking & content delivery:
+**Networking & content delivery:**
 AWS offers networking and content delivery services like Amazon VPC for creating isolated networks and Amazon CloudFront for delivering content globally with low latency through a content delivery network (CDN).
 
-Developer Tools:
+**Developer Tools:**
 AWS provides developer tools like AWS CodePipeline for automating software release processes, AWS CodeBuild for building and testing code, and AWS CodeDeploy for automating application deployments across various environments.
 
-Machine Learning:
+**Machine Learning:**
 AWS offers machine learning services like Amazon SageMaker for building, training, and deploying machine learning models, and AWS Rekognition for image and video analysis.
 
-Internet of Things:
+**Internet of Things:***
 AWS provides IoT services such as AWS IoT Core for securely connecting and managing IoT devices, and AWS IoT Analytics for processing and analyzing IoT data at scale. These services help in building and managing IoT solutions efficiently.
 
 ### Benefits of AWS
 
-On demand access:
+**On demand access:**
 you can access cloud based services whenever you need it.
 
-Pay as you go pricing:
+**Pay as you go pricing:**
 you pay for the service only for the time you use it.
 
-No upfront capital expenses:
+**No upfront capital expenses:**
 Enterprises, startups, small and medium size business and customers in public sector can access building block that they need.
 
-Tool box of high end services:
+**Tool box of high end services:**
 with aws you have access to tool box of services you might not otherwise use, such services includes machine learning,IoT and high end security sercvices.
 
 ## AWS Global Infrastructure
