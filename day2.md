@@ -1,5 +1,5 @@
 # 30 Days AWS Challenge
-## Introduction to Cloud Computing
+## Day 2: Introduction to Cloud Computing
 ### AWS Offerings
 
 **EC2 (Elastic Compute Cloud):**
